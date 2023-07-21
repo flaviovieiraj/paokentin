@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 40px;
+    margin-bottom: 50px;
+}
+
+.btn {
+	margin: 10px;
+}
+
+*{
+	font-weight: 500;
+}
+
+#formularioPao {
+	width: 20%;
+justify-content: center;
+background-color: lightgray;
+padding: 10px;
+}
+
+body.fundo {
+  background-color: #70654A;
+}
